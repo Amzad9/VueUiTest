@@ -10,6 +10,4 @@ import Home from './view/Home.vue';
   </div>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
